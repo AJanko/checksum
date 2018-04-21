@@ -1,0 +1,1 @@
+Aplikacja okienkowa napisana w jêzyku C++ przy u¿yciu biblioteki Qt. S³u¿y obliczaniu oraz porównywaniu sumy kontrolnej pliku. Obs³ugiwane algorytmy to: MD5, SHA-1 oraz CRC32.
